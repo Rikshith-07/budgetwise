@@ -1,0 +1,15 @@
+# Frontend
+node_modules/
+dist/
+
+# Backend
+target/
+
+# Environment & secrets
+.env
+.env.local
+application.properties
+
+# IDE files
+.idea/
+.vscode/
